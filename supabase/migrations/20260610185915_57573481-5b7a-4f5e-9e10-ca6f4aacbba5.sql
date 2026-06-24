@@ -1,0 +1,1 @@
+GRANT SELECT, INSERT ON public.user_roles TO authenticated;
